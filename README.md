@@ -14,6 +14,9 @@ This is the collection for material Design Demo
 - ViewPager+tabLayout实现左右类Tab效果      
 详细使用与介绍参见    [Material Design入门（三） - 良有以也](http://whuhan2013.github.io/blog/2016/04/08/android-material-learnthree/)  
 
+- materialFood 结合material基础知识做的一个综合性的例子
+详细使用与介绍参见    [Material Design综合实例 - 良有以也](http://whuhan2013.github.io/blog/2016/04/10/android-material-summary/)
+
 最后，欢迎大家关注我的项目啊，求关注。
 
 
